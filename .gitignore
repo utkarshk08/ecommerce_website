@@ -1,0 +1,30 @@
+# =====================
+# Node.js / Frontend
+# =====================
+node_modules/
+dist/
+.env
+.vite/
+
+# =====================
+# Java / Backend
+# =====================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# =====================
+# IDE settings
+# =====================
+.vscode/
+.idea/
+*.iml
+*.log
+
+# =====================
+# OS generated files
+# =====================
+.DS_Store
+Thumbs.db
